@@ -1,0 +1,32 @@
+{
+  "primary": {
+    "pairs": 10,
+    "baseline_mean_score": 85.799,
+    "candidate_mean_score": 91.199,
+    "mean_score_difference": 5.3999999999999915,
+    "baseline_full_rounds": 7,
+    "candidate_full_rounds": 9,
+    "baseline_disposed": 96,
+    "candidate_disposed": 99
+  },
+  "secondary_and_holdout": {
+    "pairs": 6,
+    "baseline_mean_score": 90.76666666666667,
+    "candidate_mean_score": 89.10166666666667,
+    "mean_score_difference": -1.664999999999992,
+    "baseline_full_rounds": 6,
+    "candidate_full_rounds": 5,
+    "baseline_disposed": 60,
+    "candidate_disposed": 59
+  },
+  "combined": {
+    "pairs": 16,
+    "baseline_mean_score": 87.661875,
+    "candidate_mean_score": 90.4125,
+    "mean_score_difference": 2.7506249999999994,
+    "baseline_full_rounds": 13,
+    "candidate_full_rounds": 14,
+    "baseline_disposed": 156,
+    "candidate_disposed": 158
+  }
+}
